@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-07-26T17:44:01Z" name="Suite" finished-at="2018-07-26T17:44:36Z" duration-ms="35378">
+    <groups>
+    </groups>
+    <test started-at="2018-07-26T17:44:01Z" name="Test" finished-at="2018-07-26T17:44:36Z" duration-ms="35378">
+      <class name="qaclickacademy.HomePage">
+        <test-method signature="basePageNav(java.lang.String, java.lang.String)[pri:0, instance:qaclickacademy.HomePage@97e93f1]" started-at="2018-07-26T17:44:01Z" name="basePageNav" data-provider="getData" finished-at="2018-07-26T17:44:36Z" duration-ms="35328" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[restricted@]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sdhdhd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageNav -->
+      </class> <!-- qaclickacademy.HomePage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
